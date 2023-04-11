@@ -1,0 +1,28 @@
+{
+  "name": "searcharraybymultiplekeys",
+  "version": "1.0.0",
+  "description": "Add object containing key-value pairs that you want to search for.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/search_array_by_multiple_keys.git"
+  },
+  "keywords": [
+    "search",
+    "arrays",
+    "array",
+    "search",
+    "search",
+    "in",
+    "arrays"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/search_array_by_multiple_keys/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/search_array_by_multiple_keys#readme"
+}
